@@ -1,0 +1,244 @@
+@CHARSET "ISO-8859-1";
+
+.header
+{
+	
+	background-image: url("../images/consumer_banner_3.jpg");
+	height: 600px;
+}
+
+.howitworksheader
+{
+	background-image: url("../images/how-it-works-hero-bg.jpg");
+	height: 430px;
+	
+	
+}
+
+.content
+{
+	
+	background-image: url("../images/consumer_banner_2.jpg");
+	height: 600px;
+	 margin-top: 360px;
+	 padding-top:30px;	 
+	
+}
+
+
+.bottom
+{
+background-image: url("../images/consumer_banner_1.jpg");
+	height: 600px;
+	 margin-top: 4px;
+	 padding-top:30px;	 	
+	
+}
+
+body
+{
+	height: 100%;
+	background-color: black;
+}
+
+.headlogoimg
+{
+	
+	margin-right: 40px;
+	margin-top: 60px;
+	
+}
+
+#headtext
+{
+	margin-left:10px;
+	color: white;
+	font-size: 130px;
+	
+}
+
+#contenttext
+{
+	margin-left:130px;
+	text-shadow:2px 2px black;
+	color: white;
+	font-size: 90px;
+	
+}
+
+#contenttext2
+{
+	margin-left:400px;
+	
+	color: white;
+	font-size: 20px;
+	
+}
+
+#orangetext
+{   padding:3px 20px;
+	color:white;
+	margin-left:20px;
+	background-color:rgb(255, 94, 37);
+	width:650px;
+	height: 45px;
+	border-color: rgb(182, 48, 64);
+	border-width: 1px;
+	border-style: solid;
+	
+	
+}
+
+#registerdiv
+{   padding:10px;
+	height:550px;
+	margin:5px;
+	width:450px;
+	background:transparent;
+	float:right;
+	
+	margin-right: 20px;
+	border-color: rgb(255, 255, 255);
+	border-style:  solid double;
+	border-width: 2px;
+	color:white;
+	 border-radius: 25px;
+	 
+}
+
+
+.loginpage
+{
+	background-image: url("../images/consumer_banner_2.jpg");
+	height:600px;
+
+	
+	 margin-top: 4px;
+	 padding-top:30px;	
+	     background-repeat:no-repeat;
+	
+	
+}
+
+.logindiv
+{
+	
+	padding:10px;
+	height:380px;
+	margin:5px;
+	width:550px;
+	background:transparent;
+	margin-left:400px;
+	margin-top:60px;
+	
+	margin-right: 20px;
+	border-color: rgb(255, 255, 255);
+	border-style:  solid double;
+	border-width: 2px;
+	color:white;
+	 border-radius: 25px;
+	 opacity: 1;
+	 position:fixed;
+}
+
+.logincontent
+{
+	padding:10px;
+	height:100px;
+	margin:5px;
+	width:100px;
+	background:transparent;
+	margin-left:560px;
+	margin-top:-100px;
+	
+	color:rgb(97, 154, 202);
+	 border-radius: 25px;
+	 opacity: 1;
+	 position:fixed;
+	 font-size: 80px;
+	
+}
+
+
+#tranparentbtn:HOVER
+{
+	opacity:0.8;
+}
+
+
+#howitworkscontent2
+{
+	margin:50px;
+	height: 600px;
+	 margin-top: 60px;
+	 padding-top:30px;	
+}
+
+#cehead
+{
+	
+	font-size: 50px;
+	margin-left: 40px;
+	padding:4px;
+	margin-top: 43px;
+	
+	
+}
+
+#cebuttons
+
+
+{
+	
+	margin-top: -25px;
+	height:60px;
+	float:right;
+	margin-right: 40px;
+}
+
+#cecontentheader
+{
+	
+	margin:80px;
+	margin-left:180px;
+	margin-right:180px;
+	height:50px;
+	padding:8px;
+	background-color: #C6E2FF;
+	
+}
+
+#cedetailswrapper
+{
+	margin:80px;
+	margin-left:100px;
+	margin-right:130px;
+	
+	
+}
+
+#cedetailshead
+{
+		font-size: 30px;
+}
+
+.tips
+{
+	float:right;
+
+}
+#cecontent
+{
+	
+	margin:20px;
+	margin-left:180px;
+	margin-right:180px;
+}
+
+#footer
+{
+	height: 200px;
+	margin-bottom: 0px;
+	background-color: #99CCFF;
+}
+
